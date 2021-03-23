@@ -1,4 +1,4 @@
-apt update && apt upgrade -y -f
+apt update  -y -f
 apt install screen -y -f
 apt install unzip -y
 cd ..
